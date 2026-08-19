@@ -1,4 +1,0 @@
-# requirements.txt  (runtime — nothing here for your project)
-
-# dev dependencies
-pytest

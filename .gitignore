@@ -1,10 +1,6 @@
-# Python cache
 __pycache__/
 *.pyc
 .pytest_cache/
-
-# Logs
 *.log
-
-# Virtual environment
 .venv/
+.env
